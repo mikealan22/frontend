@@ -56,7 +56,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">SISTEMA DE COBRANZAS</span>
-                <h1>{`Realizamos cobros variados`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Riesgos Extraordinarios", "Empresas en Mora", "Atenciones Particulares" ]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Realizamos cobros variados:`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Riesgos Extraordinarios", "Empresas en Mora", "Atenciones Particulares" ]'><span className="wrap">{text}</span></span></h1>
                   <p>La Unidad de Cobranzas del CIMFA Central de la Caja Nacional de Salud es la encargada de recuperar fondos pendientes por servicios médicos no cubiertos por el seguro social. Esto incluye la gestión de cobros a asegurados, pacientes y empresas morosas, garantizando así la estabilidad financiera del sistema de salud.</p>
                   <button onClick={() => console.log('connect')}>Registrar <ArrowRightCircle size={25} /></button>
               </div>}
