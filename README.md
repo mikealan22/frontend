@@ -34,7 +34,6 @@ Puedes personalizar la apariencia y el comportamiento del sistema de cobranzas m
 Contribución
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Puedes enviar solicitudes de extracción para mejoras o correcciones.
 
-# Sistema de Cobranzas CIMFA Central Regional La Paz
 
 Bienvenidos al Sistema de Cobranzas del CIMFA Central Regional La Paz, un proyecto de React desarrollado por [Tu Nombre] y su equipo.
 
