@@ -72,37 +72,4 @@ Una vez que la aplicación esté en funcionamiento, sigan estos pasos para usarl
 3. Hagan clic en "Iniciar Sesión".
 4. Exploren las funcionalidades de cobranzas disponibles.
 
-## Contribución
 
-Agradecemos las contribuciones de la comunidad. Si desean colaborar en este proyecto, sigan estos pasos:
-
-1. Abren un issue para discutir su propuesta.
-2. Hagan un fork del repositorio y creen una rama para su contribución.
-3. Trabajen en sus cambios y creen un Pull Request.
-4. Revisaremos su Pull Request y colaboraremos en su mejora.
-
-## Licencia
-
-Este proyecto está bajo la licencia [Tu Licencia].
-
-## Contacto
-
-Si tienen preguntas o sugerencias, no duden en contactarnos a través de [su correo electrónico].
-
-## Estado del Proyecto
-
-Actualmente, el proyecto se encuentra en una fase activa de desarrollo y mantenimiento.
-
-## Próximas Características
-
-Estas son algunas de las características que planeamos agregar próximamente:
-
-- [Lista de próximas características]
-
-## Problemas Conocidos
-
-- [Lista de problemas conocidos]
-
-## Historial de Cambios
-
-Pueden consultar el historial de cambios en el archivo [CHANGELOG.md](CHANGELOG.md).
